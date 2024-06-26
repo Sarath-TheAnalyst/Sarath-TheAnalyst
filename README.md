@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a fulltime job opportunity as a Data Analyst
 - 📫 Reach me @kskumar2426@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I mostly use data while playing sports (mostly cricket)
+- ⚡ Fun fact: I also use data while playing sports
 
 <!---
 Sarath-TheAnalyst/Sarath-TheAnalyst is a ✨ Data Analyst ✨ repository because its `README.md` (this file) appears on your GitHub profile.
